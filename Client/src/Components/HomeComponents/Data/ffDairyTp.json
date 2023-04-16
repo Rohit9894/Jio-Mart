@@ -1,0 +1,106 @@
+[
+  {
+    "id": 4,
+    "off": 20,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/bournvita-750-g/491187481",
+    "img2": "https://www.jiomart.com/images/product/150x150/491187481/bournvita-750-g-product-images-o491187481-p491187481-0-202203150515.jpg",
+    "title": "Bournvita 750 g",
+    "price": 290.0,
+    "M.R.P": 365.0,
+    "Save": 75.0
+  },
+  {
+    "id": 5,
+    "off": 26,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/dabur-honey-1-kg/490012806",
+    "img2": "https://www.jiomart.com/images/product/150x150/490012806/dabur-honey-1-kg-product-images-o490012806-p490012806-0-202203150917.jpg",
+    "title": "Dabur Honey 1 kg",
+    "price": 349.0,
+    "M.R.P": 475.0,
+    "Save": 126.0
+  },
+
+  {
+    "id": 7,
+    "off": 15,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/haldiram-bhujiawala-chatak-bhujia-namkeen-800gram-pack-of-2-400-grams-each/594546933",
+    "img2": "https://www.jiomart.com/images/product/150x150/rv8hkfxwhv/haldiram-bhujiawala-chatak-bhujia-namkeen-800gram-pack-of-2-400-grams-each-product-images-orv8hkfxwhv-p594546933-0-202210162003.jpg",
+    "title": "Haldiram Bhujiawala Chatak Bhujia N..",
+    "price": 220.0,
+    "M.R.P": 260.0,
+    "Save": 40.0
+  },
+  {
+    "id": 8,
+    "off": 20,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/tata-gold-leaf-tea-500-g/490001341",
+    "img2": "https://www.jiomart.com/images/product/150x150/490001341/tata-gold-leaf-tea-500-g-product-images-o490001341-p490001341-0-202203170442.jpg",
+    "title": "Tata Gold Leaf Tea 500 g",
+    "price": 231.0,
+    "M.R.P": 290.0,
+    "Save": 59.0
+  },
+
+  {
+    "id": 10,
+    "off": 50,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/parle-platina-nutricrunch-digestive-cookies-1-kg/590309503",
+    "img2": "https://www.jiomart.com/images/product/150x150/491641992/parle-platina-nutricrunch-digestive-cookies-1-kg-product-images-o491641992-p590309503-0-202203151738.jpg",
+    "title": "Parle Platina Nutricrunch Digestive..",
+    "price": 125.0,
+    "M.R.P": 250.0,
+    "Save": 125.0
+  },
+  {
+    "id": 11,
+    "off": 32,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/kellogg-s-fruit-nut-crunchy-muesli-750-g/491409955",
+    "img2": "https://www.jiomart.com/images/product/150x150/491409955/kellogg-s-fruit-nut-crunchy-muesli-750-g-product-images-o491409955-p491409955-0-202203152122.jpg",
+    "title": "Kellogg's Fruit & Nut Crunchy Muesl..",
+    "price": 322.0,
+    "M.R.P": 480.0,
+    "Save": 158.0
+  },
+  {
+    "id": 5,
+    "off": 26,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/dabur-honey-1-kg/490012806",
+    "img2": "https://www.jiomart.com/images/product/150x150/490012806/dabur-honey-1-kg-product-images-o490012806-p490012806-0-202203150917.jpg",
+    "title": "Dabur Honey 1 kg",
+    "price": 349.0,
+    "M.R.P": 475.0,
+    "Save": 126.0
+  },
+
+  {
+    "id": 7,
+    "off": 15,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/haldiram-bhujiawala-chatak-bhujia-namkeen-800gram-pack-of-2-400-grams-each/594546933",
+    "img2": "https://www.jiomart.com/images/product/150x150/rv8hkfxwhv/haldiram-bhujiawala-chatak-bhujia-namkeen-800gram-pack-of-2-400-grams-each-product-images-orv8hkfxwhv-p594546933-0-202210162003.jpg",
+    "title": "Haldiram Bhujiawala Chatak Bhujia N..",
+    "price": 220.0,
+    "M.R.P": 260.0,
+    "Save": 40.0
+  },
+  {
+    "id": 8,
+    "off": 20,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/tata-gold-leaf-tea-500-g/490001341",
+    "img2": "https://www.jiomart.com/images/product/150x150/490001341/tata-gold-leaf-tea-500-g-product-images-o490001341-p490001341-0-202203170442.jpg",
+    "title": "Tata Gold Leaf Tea 500 g",
+    "price": 231.0,
+    "M.R.P": 290.0,
+    "Save": 59.0
+  },
+
+  {
+    "id": 10,
+    "off": 50,
+    "pro_detail href": "https://www.jiomart.com/p/groceries/parle-platina-nutricrunch-digestive-cookies-1-kg/590309503",
+    "img2": "https://www.jiomart.com/images/product/150x150/491641992/parle-platina-nutricrunch-digestive-cookies-1-kg-product-images-o491641992-p590309503-0-202203151738.jpg",
+    "title": "Parle Platina Nutricrunch Digestive..",
+    "price": 125.0,
+    "M.R.P": 250.0,
+    "Save": 125.0
+  }
+]

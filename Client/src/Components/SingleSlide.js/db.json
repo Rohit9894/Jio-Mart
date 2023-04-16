@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage1.jpg?raw=true"
+  },
+  {
+    "id": 2,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage2.jpg?raw=true"
+  },
+  {
+    "id": 3,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage3.jpg?raw=true"
+  },
+  {
+    "id": 4,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage4.jpg?raw=true"
+  },
+  {
+    "id": 5,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage5.jpg?raw=true"
+  },
+  {
+    "id": 6,
+    "img": "https://github.com/navvitech/carousels-in-react/blob/main/src/assets/carouselImage6.jpg?raw=true"
+  }
+]

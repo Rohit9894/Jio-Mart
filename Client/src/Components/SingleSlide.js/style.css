@@ -1,0 +1,25 @@
+.custom-indicator li {
+  width: 70px;
+  height: 70px;
+  border: 2px solid gray;
+  display: block;
+  margin-top: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.custom-indicator {
+  /* bottom: -65px; */
+  top: 40px;
+  left: -95px;
+  width: max-content;
+}
+.custom-indicator li.slick-active {
+  background-color: red;
+}
+
+.slick-arrow.slick-prev,
+.slick-arrow.slick-next {
+  display: none;
+}
